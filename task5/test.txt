@@ -1,0 +1,3 @@
+##If you are someone with no previous programming experience 
+ or someone with programming experience and would love 
+ to learn C++ you have come to the right place. 
